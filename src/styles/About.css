@@ -1,0 +1,13 @@
+.about-container {
+    display: flex;
+    justify-content: center;
+}
+
+.route-link-container {
+    text-align: center;
+}
+
+.about-desc {
+    display: flex;
+    justify-content: center;
+}
